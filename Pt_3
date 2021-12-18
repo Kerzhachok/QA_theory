@@ -1,5 +1,10 @@
 1. Уровни OSI
 2. Принципы тестирования
 3. Техники тест дизайна
+  Pairwise
+  State-transition
+  Equivalence Partitioning
+  Boundary Value Analysis
+  State & Transition
 4. Как подобрать мобильные девайсы для тестирования
 5. Есть много браузеров, почему важно тестировать в разных браузерах?
